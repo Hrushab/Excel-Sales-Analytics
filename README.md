@@ -55,7 +55,7 @@ This repository contains detailed sales and finance reports designed to provide 
 ### **2. Finance Report**
 
 - **P & L Statement_by_Fiscal_Years**  
-  _[Link to report]([https://github.com/your-repo-link/P_and_L_Statement_by_Fiscal_Years](https://github.com/Hrushab/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement_by_Fiscal_Years.pdf))_  
+  _[Link to report](https://github.com/your-repo-link/P_and_L_Statement_by_Fiscal_Years](https://github.com/Hrushab/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement_by_Fiscal_Years.pdf)_  
   This Profit & Loss (P&L) statement provides a year-over-year financial performance analysis, helping stakeholders understand the financial trajectory of AtliQ Industries.
 
 - **P & L Statement_by_Markets**  
